@@ -1,5 +1,5 @@
 # PHP Lab 1
-## Technologies:
+## Technologies
 - PHP
 - Composer
 - Symfony-validator
